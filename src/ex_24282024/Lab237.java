@@ -8,5 +8,6 @@ public class Lab237 {
         s.add("Pramod");
         s.add("Dutta");
         s.add("Kiran");
+        s.add("Kiran1");
     }
 }
